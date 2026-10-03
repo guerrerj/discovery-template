@@ -1,0 +1,4 @@
+inbox/processed/*
+!inbox/processed/.gitkeep
+.DS_Store
+.claude/

@@ -1,0 +1,10 @@
+# share.txt — the allowlist for scripts/export_share.py.
+# Everything NOT listed here is private and never leaves this repo.
+# One path or glob per line, relative to the repo root; # starts a comment.
+# Never list contacts/, interviews/, inbox/ or reports/outreach-* (check.py blocks it).
+# Listed files must not contain names, emails or phone numbers: refer to people as CON-###.
+
+hypotheses.md
+guides/interview-sheet.md
+reports/synthesis-*.md
+reports/team-coverage.md
